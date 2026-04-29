@@ -1,0 +1,3 @@
+# Macro Scratch Tester
+
+This device simulates the wear on a part as if it has been used repeatedly in engineering applications. With this simulation you can determine its life expectancy and overall quality of the coating of your part.This machine, which produces scratches up to 15 mm, has been completed in accordance with the standards in its design, application and reliable operation, with a linearly increasing force between 0 - 150 N. The results we obtained from these tests are in accordance with the machine's resistance to various scratch tests. Data is provided to ensure that it can be measured, analyzed and in accordance with standards.
